@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"manifest_version": 1,
+	"name": "Pinkman the Web!",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Adds some Jesse Pinkman flavor to the web.",
 	"content_scripts": 
 	[
 		{
