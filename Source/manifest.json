@@ -1,5 +1,5 @@
 {
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"name": "Pinkman the Web!",
 	"version": "1.0",
 	"description": "Adds some Jesse Pinkman flavor to the web.",
