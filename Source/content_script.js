@@ -31,7 +31,7 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\b(. )\b/g, ", bitch!");
+	v = v.replace(/(. )/g, ", bitch!");
 	
 	textNode.nodeValue = v;
 }
